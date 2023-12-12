@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a869a00d9a32b34a93751dcb8b7e488, type: 3}
+  m_Name: Volcarona
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  frontSprite: {fileID: 21300000, guid: 81992665b96b9924d87331644b9b2431, type: 3}
+  backSprite: {fileID: 21300000, guid: ce8eb923a722645408d73220523fb390, type: 3}
+  type1: 12
+  type2: 2
+  maxHp: 85
+  attack: 60
+  defense: 65
+  spAttack: 135
+  spDefense: 105
+  speed: 100

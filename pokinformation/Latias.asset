@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a869a00d9a32b34a93751dcb8b7e488, type: 3}
+  m_Name: Latias
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  frontSprite: {fileID: 21300000, guid: 66e4b9253976cc0479aae7c179dee494, type: 3}
+  backSprite: {fileID: 21300000, guid: d1cdf4a97283da44fa7eb80b5fbe765f, type: 3}
+  type1: 15
+  type2: 11
+  maxHp: 80
+  attack: 80
+  defense: 90
+  spAttack: 110
+  spDefense: 130
+  speed: 110
